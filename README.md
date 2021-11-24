@@ -1,0 +1,1 @@
+# setup-node-with-sada-registry
