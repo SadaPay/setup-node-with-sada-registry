@@ -1,4 +1,4 @@
-# How to use this action in your workflow
+# Composite action to setup node with sadapay registry
 
 This works just like any other action you are currently using. See example below
 
